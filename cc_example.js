@@ -15,3 +15,24 @@
 
 // Task 6
 
+// let inventory = {
+//     items: [],
+//     addItem(name, quantity) {
+//         this.items.push({name, quantity});
+//     },
+//     removeLatestItem(){
+//         this.items.pop();
+//     },
+//     removeFirstItem(){
+//         this.items.shift();
+//     }
+// };
+
+// inventory.addItem("Monitor", 5);
+// inventory.addItem("Keyboard", 10);
+// inventory.addItem("Mouse", 3);
+// console.log(JSON.stringify(inventory.items));
+// inventory.removeLatestItem();
+// console.log(JSON.stringify(inventory.items));
+// inventory.removeFirstItem();
+// console.log(JSON.stringify(inventory.items));
